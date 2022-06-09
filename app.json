@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/index",
+
+    "pages/test/test",
+    "pages/camera/camera"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "尝试获取你的位置信息"
+    }
+  },
+  
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+
+}
